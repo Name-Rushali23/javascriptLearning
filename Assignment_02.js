@@ -1,0 +1,15 @@
+var num1=100;
+var num2=200;
+var num3=300;
+var num3=num1;
+num1=num2;
+num2=num3;
+num3=num1;
+console.log(num1,num2,num3);
+var name1="Rushali";
+var name2="gaytri";
+var name3="aku";
+name1=name2;
+name2=name3;
+name3=name1;
+console.log(name1,name2,name3);
